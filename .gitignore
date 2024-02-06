@@ -1,0 +1,7 @@
+# ignore data directory
+data/
+checkpoints/
+wandb/
+__pycache__/
+outputs/
+wandb/
